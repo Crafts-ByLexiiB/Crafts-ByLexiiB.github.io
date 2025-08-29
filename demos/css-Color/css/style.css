@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#first-paragraph {
+    color: red
+}
+
+#second-paragraph {
+    background-color: red;
+    color: antiquewhite;
+}
+
+#span-1 {
+    color: blueviolet;
+}

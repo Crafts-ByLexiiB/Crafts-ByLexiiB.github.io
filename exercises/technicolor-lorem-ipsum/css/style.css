@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#first-paragraph {
+    color: blue;
+    background-color: black;
+}
+#second-paragraph {
+    color: aqua;
+background-color: blue;
+}
+#third-paragraph {
+    background-color: aqua;
+    color: rgb(3, 157, 105);
+
+}
+#span-1 {
+    color: blueviolet;
+    background-color: goldenrod;
+}
+#span-2{
+    color: brown;
+    background-color: white;
+}
+#span-3{
+    color: darkmagenta;
+    background-color: dimgrey;
+}
+#span-4{
+    color: chocolate;
+    background-color:black
+}
+#span-5 {
+    color: darkred;
+    background-color: darkblue;
+}
