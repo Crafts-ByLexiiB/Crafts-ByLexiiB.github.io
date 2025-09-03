@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#span-1 {
+    color: seagreen;
+}
+
+#no-underline {
+    text-decoration: none;
+    color: fuchsia;
+}
+
+#no-underline-2 {
+    text-decoration: none;
+    color: red;
+}
+
+#no-underline-3 {
+    text-decoration: none;
+    color: goldenrod;
+}
+
+#no-underline-4 {
+    text-decoration: none;
+    color: blue;
+}
+
+#span-4 { 
+  
+   
+}
+
+#span-5 {
+
+}
+
+#span-6 {
+    font-weight: bold;
+}

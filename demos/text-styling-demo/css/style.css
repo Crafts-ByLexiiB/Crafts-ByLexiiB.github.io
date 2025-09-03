@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#span-1 {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#span-2 {
+    font-style: italic;
+}
+/* This is how you change the size of a single letter */
+#big-paragraph {
+    /* line-height: 24px
+    letter-spacing: 3px */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 
+    'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+#ff-1 {
+    font-family: serif;
+    text-align: left;
+}
+
+#ff-2 {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+#ff-3 {
+    font-family: monospace;
+    text-align: right;
+}
+
+#ff-4 {
+    font-family: cursive;
+}
+
+#ff-5 {
+    font-family: fantasy;
+}
+
+#no-underline {
+    text-decoration: none;
+    color: red;
+}
+
+#image-align {
+    width: 100px;
+    /* DO NOT DO THIS */
+    text-align: center;
+}
+
+#alignment-test {
+    /* DO THIS TO CENTER AN IMAGE */
+    text-align: center;
+}
