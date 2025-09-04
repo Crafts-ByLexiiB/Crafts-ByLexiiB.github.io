@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#container {
+    width: 500px;
+    height: 100vh;
+    background-color: cadetblue;
+    font-size: 0px;
+}
+
+.block {
+    display: inline-block;
+     width: 100px;
+    height: 100px;
+    background-color: grey;
+    
+    
+}
+.red {
+    background-color: red;
+    border-color: black;
+}
+
+.red {
+    background-color: red;
+    border-color: white;
+}
+
+.asdf {
+    background-color: purple;
+    border-color: grey;
+}
+
+.green {
+    background-color: green;
+    border-color: black;
+}
+
+.blue {
+    background-color: blue;
+    border-color: white;
+}
+
+
