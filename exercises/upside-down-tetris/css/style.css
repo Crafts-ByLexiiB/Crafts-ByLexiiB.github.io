@@ -25,16 +25,21 @@ body {
 .red {
     background-color: red;
     border-color: black;
+    box-shadow: 20px 20px 20px 50px;
 }
 
 .red {
     background-color: red;
-    border-color: white;
+    border-color: black;
+    box-shadow: 20px 20px 20px 50px;
+
 }
 
 .asdf {
     background-color: purple;
     border-color: grey;
+    box-shadow: 20px 20px 20px 50px;
+
 }
 
 .green {
@@ -45,6 +50,8 @@ body {
 .blue {
     background-color: blue;
     border-color: white;
+    box-shadow: 20px 20px 20px 50px;
+
 }
 
 
