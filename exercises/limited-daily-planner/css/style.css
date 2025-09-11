@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#morning,
+#afternoon,
+#evening {
+    padding: 24px;
+    padding-top: 5px;
+    margin: 24px;
+}
+
+#morning {
+    background-color: cadetblue;
+}
+
+#afternoon {
+    background-color: cornflowerblue;
+}
+
+#evening {
+    background-color: yellow;
+}
+
+#morning.completed,
+#afternoon.completed,
+#evening.completed {
+    text-decoration: line-through;
+}
+
+#morning.completed.important,
+#afternoon.
