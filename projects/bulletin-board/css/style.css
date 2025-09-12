@@ -7,10 +7,13 @@
     Good luck, and have fun!
 */
 
-#post-it{
+.post-it{
     display: inline-block;
     width: 200px;
     height: 200px;
+    vertical-align: top;
+    margin: 24px;
+    padding: 24px;
 }
 
 .small {
@@ -25,3 +28,4 @@
 .blue {
     background-color: lightblue;
 }
+
