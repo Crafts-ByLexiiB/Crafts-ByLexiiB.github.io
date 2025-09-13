@@ -6,3 +6,15 @@ body {
     margin: 0px;
     font-family: sans-serif;
 }
+
+.single-column {
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+.light-outer-Container {
+    background-color: lightskyblue;
+    padding: 48px 24px;
+}
