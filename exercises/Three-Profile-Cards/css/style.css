@@ -6,3 +6,30 @@ body {
     margin: 0px;
     font-family: sans-serif;
 }
+
+#single-column {
+    max-width: 800px;
+    margin: 36px;
+}
+
+.card {
+    border: 5px solid pink;
+    padding: 36px;
+    text-align: center;
+    margin: 36px 0px;
+}
+
+.card h3 {
+    font-size: 36px;
+    margin: 0px;
+}
+
+.card p {
+    font-size: 24px;
+    margin: 24px 0px 0px;
+}
+
+#card-cantainer {
+    font-size: 24px;
+    margin: 24px 0px 0px;
+}
