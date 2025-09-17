@@ -18,3 +18,8 @@ body {
     background-color: lightskyblue;
     padding: 48px 24px;
 }
+
+.dark-outer-Container {
+    background-color: blue;
+    padding: 48px 24px;
+}
