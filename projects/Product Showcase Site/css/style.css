@@ -23,3 +23,19 @@ body {
     background-color: blue;
     padding: 48px 24px;
 }
+
+.button {
+     color: white;
+     text-decoration: none;
+     display: inline-block;
+}
+
+.button.background {
+    background-color: lightblue;
+    color: white;
+    padding: 24px;
+    border-radius:  36px;
+    margin: 8px;
+    font-size: 24px;
+    font-weight: bold;
+}
