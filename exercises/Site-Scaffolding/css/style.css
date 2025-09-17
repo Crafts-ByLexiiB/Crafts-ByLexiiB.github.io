@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+/* flexbox container */
+#navbar {
+    background: linear-gradient( /* color stops */
+        to bottom,
+        red,
+        red
+    );
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
