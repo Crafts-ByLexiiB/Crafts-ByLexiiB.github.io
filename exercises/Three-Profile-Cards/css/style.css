@@ -9,7 +9,7 @@ body {
 
 #single-column {
     max-width: 800px;
-    margin: 36px;
+    margin: 0px auto;
 }
 
 .card {
@@ -17,6 +17,7 @@ body {
     padding: 36px;
     text-align: center;
     margin: 36px 0px;
+    flex: 1;
 }
 
 .card h3 {
@@ -32,4 +33,7 @@ body {
 #card-cantainer {
     font-size: 24px;
     margin: 24px 0px 0px;
+    display: flex;
+    justify-content: space-between;
 }
+
