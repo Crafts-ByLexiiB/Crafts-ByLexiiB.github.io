@@ -7,3 +7,26 @@ body {
     font-family: sans-serif;
 }
 
+.center-column {
+    background-color: green;
+    width: 800px;
+    margin: auto;
+    color: white;
+}
+  
+.button {
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.button.background {
+    background-color: red;
+    color: white;
+    padding: 24px;
+    border-radius:  2px;
+    margin: 8px;
+    font-size: 15px;
+    font-weight: bold;
+    border-color: goldenrod;
+}
