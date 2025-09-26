@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+#nav {
+     background-color: #222222;
+     display: flex;
+     justify-content: center;
+     /* flex-wrap: wrap; */
+     /* flex-direction: column; */
+}
+
+#nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 20px;
+}
+
+#Hero {
+    background-image: url("../images/urban-20vb1.jpg");
+    height: 40vh;
+    background-size: cover ;
+    background-position: center right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#hero- .hero-content {
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+}
+
